@@ -1,0 +1,1 @@
+# oneplus12_kernel_manifest
